@@ -5,9 +5,9 @@ React + .NET Core website for Book reservations.
 A web application for reserving different types of books.
 
 ### Features
-Viewing a list of books
-Reserving books
-Viewing a list of reservations
+-Viewing a list of books
+-Reserving books
+-Viewing a list of reservations
 
 ### How to run it
 Start the backend
